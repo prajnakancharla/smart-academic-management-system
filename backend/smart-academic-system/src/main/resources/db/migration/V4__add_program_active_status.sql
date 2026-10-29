@@ -1,0 +1,3 @@
+
+ALTER TABLE academic_programs
+ADD COLUMN active BOOLEAN NOT NULL DEFAULT TRUE;
